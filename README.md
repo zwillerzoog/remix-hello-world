@@ -13,9 +13,13 @@ Node v20.14.0 or higher
 
 Clone the repository: git clone https://github.com/zwillerzoog/remix-hello-world.git
 
-```cd remix-hello-world```
+```sh
+cd remix-hello-world
+```
 
-```npm install```
+```sh
+npm install
+```
 
 ## Development
 
