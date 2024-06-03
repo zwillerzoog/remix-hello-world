@@ -10,8 +10,9 @@ Node v20.14.0 or higher
 
 ## Installation
 
-
-Clone the repository: git clone https://github.com/zwillerzoog/remix-hello-world.git
+```sh
+ git clone https://github.com/zwillerzoog/remix-hello-world.git
+```
 
 ```sh
 cd remix-hello-world
