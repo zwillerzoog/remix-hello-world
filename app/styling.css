@@ -1,0 +1,20 @@
+.h-center {
+  display: flex;
+  margin: auto;
+  justify-content: center;
+}
+
+.h-center button {
+  margin: 10px;
+}
+
+.v-center {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 50%;
+}
+
+.w-full {
+  width: 100%;
+}
